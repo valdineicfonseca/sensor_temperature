@@ -1,3 +1,5 @@
+# Sensor de temperatura para monitoramento processadores 
+
 # Importing the library
 import psutil
   
